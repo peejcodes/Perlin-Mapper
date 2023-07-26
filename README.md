@@ -1,2 +1,2 @@
 # Perlin-Mapper
-Perlin noise based procedural world generator. So far this is just a single 2D chunk but will be working on stitching chunks together and then going 3D.
+Perlin noise based procedural world generator in progress. As of now it has the ability to generate and visualize both 2D and 3D perlin noise.
